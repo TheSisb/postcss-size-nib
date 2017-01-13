@@ -1,6 +1,6 @@
 {
   "name": "postcss-size-nib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin that allows the use of 'size' as a shorthand for width & height",
   "keywords": [
     "postcss",
@@ -12,12 +12,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thesisb/postcss-short-size.git"
+    "url": "git+https://github.com/thesisb/postcss-size-nib.git"
   },
   "bugs": {
-    "url": "https://github.com/TheSisb/postcss-short-size/issues"
+    "url": "https://github.com/TheSisb/postcss-size-nib/issues"
   },
-  "homepage": "https://github.com/TheSisb/postcss-short-size",
+  "homepage": "https://github.com/TheSisb/postcss-size-nib",
   "dependencies": {
     "postcss": "^5.2.6"
   },
