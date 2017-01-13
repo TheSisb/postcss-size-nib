@@ -1,0 +1,39 @@
+{
+  "name": "postcss-size-nib",
+  "version": "1.0.0",
+  "description": "PostCSS plugin that allows the use of 'size' as a shorthand for width & height",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "nib"
+  ],
+  "author": "TheSisb <shadiisber@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesisb/postcss-short-size.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheSisb/postcss-short-size/issues"
+  },
+  "homepage": "https://github.com/TheSisb/postcss-short-size",
+  "dependencies": {
+    "postcss": "^5.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-postcss": "^2.0.2",
+    "jest": "^18.0.0"
+  },
+  "scripts": {
+    "test": "jest && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss/es5",
+    "env": {
+      "jest": true
+    }
+  },
+  "main": "index.js"
+}
