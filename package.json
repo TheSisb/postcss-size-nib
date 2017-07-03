@@ -1,6 +1,6 @@
 {
   "name": "postcss-size-nib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "PostCSS plugin that allows the use of 'size' as a shorthand for width & height",
   "keywords": [
     "postcss",

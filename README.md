@@ -1,10 +1,10 @@
-# PostCSS Short Size [![Build Status][ci-img]][ci]
+# PostCSS Size nib [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin that allows the use of "short:" instead of width & height.
+[PostCSS] plugin that allows the use of "size:" instead of width & height.
 
 [PostCSS]: https://github.com/postcss/postcss
-[ci-img]:  https://travis-ci.org/TheSisb/postcss-short-size.svg
-[ci]:      https://travis-ci.org/TheSisb/postcss-short-size
+[ci-img]:  https://travis-ci.org/TheSisb/postcss-size-nib.svg
+[ci]:      https://travis-ci.org/TheSisb/postcss-size-nib
 
 ```css
 .foo {
@@ -29,7 +29,7 @@
 ## Usage
 
 ```js
-postcss([ require('postcss-short-size') ])
+postcss([ require('postcss-size-nib') ])
 ```
 
 See [PostCSS] docs for examples for your environment.
